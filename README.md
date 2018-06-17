@@ -15,7 +15,7 @@ A counter shows the user has 15 seconds to answer each question and the time rem
 The answer to each question is displayed afterwards with an image relevant to the correct answer. If no answer is chosen, the game moves on to the next question. 
 At the end of the game, the user’s score will be shown.
 
-The following is a link to the trivia game: (
+The following is a link to the trivia game: (https://aboulie.github.io/Trivia-Game/)
 
 ## Project Usefulness
 
